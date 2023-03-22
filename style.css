@@ -1,0 +1,27 @@
+*{
+    font-family: arial;
+}
+html,body{
+    margin:0;
+    box-sizing: border-box;
+}
+.header{
+    margin: 15px auto;
+}
+.container{
+    background-color: #b5b5b5;
+    margin: 10px auto;
+    align-items:center;
+    justify-content: center;
+    width: 50%;
+}
+.container h3, h5{
+    padding-left: 15px;
+}
+.h3{
+    font-size: 30px;
+}
+.versiculos{
+    font-size: 16px;
+    list-style: none;
+}
